@@ -1,5 +1,5 @@
 now i am modifying the file6 completely after pusing this branch into central repository.
 now i am modifying this file to check and learn about the how to push the data into main branch by using the commit id.
 it will useful for us to avoid the entire branch or file.
-one more think ,i want to merge a single file to the main and then to repository.
+one more think ,i want to merge a single file in a branch  after committing the multiple files in a single commit to the main and then to repository.
 In the branch,i want to send the single files to central repository even though we are having multiple files we have in it.
